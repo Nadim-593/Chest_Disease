@@ -273,12 +273,6 @@ Add actual results from your completed evaluation before publishing performance 
 
 Always consult a qualified healthcare professional for medical concerns.
 
-## Author
-
-**MD. NADIMUL ISLAM NADIM**
-
-- GitHub: [Nadim-593](https://github.com/Nadim-593)
-- LinkedIn: Add your LinkedIn profile URL
 
 ## License
 
