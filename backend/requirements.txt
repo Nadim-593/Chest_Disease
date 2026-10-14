@@ -1,0 +1,21 @@
+# Core framework
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+
+# Settings management
+pydantic-settings==2.9.1
+
+# File upload support
+python-multipart==0.0.20
+
+# Environment variables
+python-dotenv==1.1.0
+
+# Deep learning & inference
+tensorflow==2.19.0
+
+# Image processing
+Pillow==11.2.1
+
+# Numerical computation
+numpy==1.26.4

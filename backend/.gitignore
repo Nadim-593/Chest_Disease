@@ -1,0 +1,47 @@
+# ── Python ──────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environment ──────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Environment variables ─────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Model files (large binaries) ─────────────────────────────────
+*.keras
+*.h5
+*.hdf5
+*.pb
+*.tflite
+*.onnx
+
+# ── IDE ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Uploads (never store medical images permanently) ─────────────
+uploads/
+temp_images/
+
+# ── Logs ─────────────────────────────────────────────────────────
+*.log
+logs/
